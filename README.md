@@ -97,7 +97,6 @@ My goal is to deliver systems that are **well-structured, maintainable, and high
         <img src="https://img.shields.io/badge/COMPLETION-85%25-brightgreen?style=for-the-badge" alt="85%">
       </p>
     </td>
-
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="center">
@@ -122,7 +121,6 @@ My goal is to deliver systems that are **well-structured, maintainable, and high
       </p>
     </td>
   </tr>
-
   <tr>
     <!-- Project 3 -->
     <td width="50%" valign="top">
@@ -151,7 +149,6 @@ My goal is to deliver systems that are **well-structured, maintainable, and high
         <img src="https://img.shields.io/badge/COMPLETION-85%25-yellowgreen?style=for-the-badge" alt="85%">
       </p>
     </td>
-
     <!-- Project 4 -->
     <td width="50%" valign="top">
       <h3 align="center">
@@ -191,7 +188,6 @@ My goal is to deliver systems that are **well-structured, maintainable, and high
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
