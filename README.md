@@ -180,7 +180,7 @@ My goal is to deliver systems that are **well-structured, maintainable, and high
         <b>Technologies:</b><br>
         • UI: C# WinForms<br>
         • Backend/Logic: .NET<br>
-        • Database: SQL Server
+        • Database: MongoDB
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/COMPLETION-90%25-success?style=for-the-badge" alt="90%">
